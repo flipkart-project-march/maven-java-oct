@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://34.201.71.5:9000/</sonar.host.url>
-		<sonar.login>sqa_c2fe8616733496d365ba569c2f05e7a5cab8bb64</sonar.login>
+		<sonar.host.url>http://13.234.244.186:9000/</sonar.host.url>
+		<sonar.login>sqa_493f6c4930b877b0227d7a440be7a3ca12f159c6</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>DigiEras Technologies Releases Nexus Repository</name>
-	      <url>http://18.215.148.86:8082/digieras/repository/flipkar-release/</url>
+	      <url>http://13.202.154.202:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>DigiEras Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.215.148.86:8082/digieras/repository/flipkart-snapshot//</url>
+	      <url>http://13.202.154.202:8081/repository/flipkar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
